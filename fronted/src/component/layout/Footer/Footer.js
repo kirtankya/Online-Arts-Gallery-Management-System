@@ -10,11 +10,11 @@ const Footer = () => {
       <div className="midFooter">
         <h1>OAGMS</h1>
         <p>Marketplace for the most precious Arts</p>
-        <p>Copyrights 2021 &copy; OAGMS</p>
-        <a href="https://www.linkedin.com/in/meghadri-koley-165018203/" target="blank">
+        <p>Copyrights 2024 &copy; OAGMS</p>
+        <a href="">
               <LinkedIN className="linkedinSvgIcon" />
         </a>
-        <a href="https://instagram.com/oagms" target="blank">
+        <a href="">
               <InstagramIcon className="instaSvgIcon" />
         </a>
       </div>

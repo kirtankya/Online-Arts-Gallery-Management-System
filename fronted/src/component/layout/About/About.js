@@ -7,7 +7,7 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 
 const About = () => {
   const visitInstagram = () => {
-    window.location = "https://instagram.com/oagms";
+    window.location = "";
   };
 
 
@@ -36,13 +36,13 @@ const About = () => {
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Handles</Typography>
             <a
-              href="https://www.linkedin.com/channel/oagms"
+              href=""
               target="blank"
             >
               <YouTubeIcon className="youtubeSvgIcon" />
             </a>
 
-            <a href="https://instagram.com/oagms" target="blank">
+            <a href="" target="blank">
               <InstagramIcon className="instagramSvgIcon" />
             </a>
           </div>
